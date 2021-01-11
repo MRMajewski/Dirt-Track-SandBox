@@ -30,7 +30,7 @@ public class GameController : MonoBehaviour
         }
     }
 
-    private void Respawn()
+    public void Respawn()
     {
         player.transform.position = startPosition;
         player.transform.rotation = Quaternion.Euler(startRotation);

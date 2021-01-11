@@ -70759,16 +70759,61 @@ PrefabInstance:
       propertyPath: wheelObjectForRotation
       value: 
       objectReference: {fileID: 300311588}
+    - target: {fileID: 6581385283108399118, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: steerTime
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581385283108399118, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: damperStiffness
+      value: 4000
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581385283108399118, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: springStiffness
+      value: 38500
+      objectReference: {fileID: 0}
     - target: {fileID: 6581385283420037476, guid: 3d01396d4e2bdad46bf040accc868a7b,
         type: 3}
       propertyPath: wheelObjectForRotation
       value: 
       objectReference: {fileID: 474848443}
+    - target: {fileID: 6581385283420037476, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: steerTime
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581385283420037476, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: damperStiffness
+      value: 4000
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581385283420037476, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: springStiffness
+      value: 38500
+      objectReference: {fileID: 0}
     - target: {fileID: 6581385283489780189, guid: 3d01396d4e2bdad46bf040accc868a7b,
         type: 3}
       propertyPath: wheelObjectForRotation
       value: 
       objectReference: {fileID: 337776396}
+    - target: {fileID: 6581385283489780189, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: steerTime
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581385283489780189, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: damperStiffness
+      value: 4000
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581385283489780189, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: springStiffness
+      value: 38500
+      objectReference: {fileID: 0}
     - target: {fileID: 6581385283603417016, guid: 3d01396d4e2bdad46bf040accc868a7b,
         type: 3}
       propertyPath: m_Name
@@ -70837,12 +70882,27 @@ PrefabInstance:
     - target: {fileID: 6581385283603417022, guid: 3d01396d4e2bdad46bf040accc868a7b,
         type: 3}
       propertyPath: m_Mass
-      value: 1750
+      value: 1850
       objectReference: {fileID: 0}
     - target: {fileID: 6581385284577924980, guid: 3d01396d4e2bdad46bf040accc868a7b,
         type: 3}
       propertyPath: wheelObjectForRotation
       value: 
       objectReference: {fileID: 998386295}
+    - target: {fileID: 6581385284577924980, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: steerTime
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581385284577924980, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: damperStiffness
+      value: 4000
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581385284577924980, guid: 3d01396d4e2bdad46bf040accc868a7b,
+        type: 3}
+      propertyPath: springStiffness
+      value: 38500
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3d01396d4e2bdad46bf040accc868a7b, type: 3}
